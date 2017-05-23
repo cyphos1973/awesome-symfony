@@ -109,7 +109,7 @@ Table of contents:
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
 * [Victoire DCMS](https://github.com/victoire/victoire)
-* [Symfony Bolt] (https://github.com/bolt/bolt)
+* [Symfony Bolt](https://github.com/bolt/bolt)
 
 ## Ecommerce
 
